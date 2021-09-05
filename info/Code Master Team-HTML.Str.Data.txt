@@ -1,0 +1,170 @@
+Header
+.......
+
+header>
+
+	nav>
+
+		div.nav-container>
+
+			img+
+
+			div.btn>
+
+				div.bar01>
+
+				div.bar02>
+
+				div.bar03>
+
+		ul.nav-links>
+
+			5*li> a
+
+		ul.nav-icons>
+
+			4*li> a
+
+
+	div.banner#banner>
+
+		div.banner-card>
+
+			h1 include span+
+
+			h3
+
+.........................................................................................................................................
+
+Skills
+......
+
+section.skills#skills>
+
+	div.skills-center>
+
+		6* article.single-skill>
+
+			a"includeAwesomeIcone" +
+
+			h1 +
+
+			p
+
+
+.........................................................................................................................................
+
+About
+......
+
+section.about#about>
+
+	article.about-image>
+
+	article.about-text>
+
+		div.about-text__center>
+
+			h1 +
+
+			div.about-text__underline +
+
+			a
+
+.........................................................................................................................................
+
+Project
+........
+
+section.projects#projects>
+	
+	10*article.single-project.project-1..10>
+
+.........................................................................................................................................
+
+Team
+.....
+
+section.team_members#team>
+
+	div.team-cente.owl-carousel.owl-theme>
+
+		8*article.single-member>
+
+			img +
+
+			div.member-text>
+
+				h3 +
+
+				h6 +
+
+				div.member-icons> 4*a
+
+
+.........................................................................................................................................
+
+Customers
+..........
+
+section.customers>
+
+	div.customers-center>
+
+		4* article.single-customer>
+
+			a +
+			
+			p +
+
+			h3 +
+
+			h6 +
+
+			img
+
+
+
+.........................................................................................................................................
+
+contact
+..........
+
+section.contact>
+
+	div.contact-center>
+
+		article.contact-info>
+
+			2* div.contact-detail>
+
+				div.contact-icon>
+
+					AwesomeIcon 
+
+				div.contact-text>
+
+					h3 +
+
+					3* p
+
+		article.contact-form>
+
+			h3 +
+
+			form>
+
+				input type"text" +
+
+				input type"text" +
+
+				input type"email" +
+
+				textArea +
+
+				button tupe"submit"
+
+		
+
+					
+	
